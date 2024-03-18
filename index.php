@@ -1,7 +1,7 @@
 <?php
 include_once 'header.php';
 ?>
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="style.css">
 <!-- Start Banner Hero -->
 <div id="template-mo-zay-hero-carousel" class="carousel slide" data-bs-ride="carousel">
     <ol class="carousel-indicators">
@@ -23,7 +23,7 @@ include_once 'header.php';
                     </div>
                     <div class="col-lg-6 mb-0 d-flex align-items-center">
                         <div class="text-align-left align-self-center">
-                            <img class="img-fluid" src="./assets/img/doação-transf-750.png" alt="">
+                            <img class="img-fluid" src="doação-transf-750.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -41,7 +41,7 @@ include_once 'header.php';
                     </div>
                     <div class="col-lg-6 mb-0 d-flex align-items-center">
                         <div class="text-align-left">
-                            <img class="img-fluid" src="./assets/img/bd2.png" alt="">
+                            <img class="img-fluid" src="bd2.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -58,7 +58,7 @@ include_once 'header.php';
                     </div>
                     <div class="col-lg-6 mb-0 d-flex align-items-center">
                         <div class="text-align-left">
-                            <img class="img-fluid" src="./assets/img/blood-donor-700.png" alt="">
+                            <img class="img-fluid" src="blood-donor-700.png" alt="">
                         </div>
                     </div>
                 </div>
@@ -86,7 +86,7 @@ include_once 'header.php';
         </div>
     </div>    
     <div class="col-lg-6-m-auto py-2">
-       <img src="assets/img/blood-donation.png" alt="" class="img ms-3 float-end">
+       <img src="blood-donation.png" alt="" class="img ms-3 float-end">
        <p>Cada vez está mais presente nos meios de comunicação e cada vez mais as autoridades de saúde tentam nos conscientizar e, é preciso levar em conta que pode doar sangue, qualquer pessoa que esteja saudável, que tenha entre 18 e 65 anos, e que pese mais de 50 quilos, já que se colhe uma quantidade padrão para todos os doadores, que é de 450 ml. Para fazer uma doação não é necessário estar em jejum, ao contrário do que acontece quando fazemos um exame de sangue. Você também pode doar sangue, embora tenha o colesterol elevado e, embora esteja tomando alguns dos medicamentos mais frequentes.</p>
                
             
@@ -106,7 +106,7 @@ include_once 'header.php';
 
         <div id="beneficios_img" class="container text-center">
             <figure class="figure">
-                 <img src="assets/img/people-blood.jpg" alt="" class="img-thumbnail ms-3 fl">
+                 <img src="people-blood.jpg" alt="" class="img-thumbnail ms-3 fl">
                 <figcaption class="figcaption text-end">Voluntários da Cruz Vermelha doando sangue.</figcaption>
             </figure> 
         </div>
