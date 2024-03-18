@@ -8,23 +8,23 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
-    <link rel="shortcut icon" type="image/x-icon" href="assets/img/logo.ico">
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="shortcut icon" type="image/x-icon" href="logo.ico">
 
 	<script src="https://unpkg.com/scrollreveal@4.0.0/dist/scrollreveal.min.js"></script>
-	<link rel="stylesheet" href="assets/css/style.css">
-	<link rel="stylesheet" href="assets/leaflet/leaflet.css">
-   	<script src="assets/leaflet/leaflet.js"></script>
-    <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="style.css">
+	<link rel="stylesheet" href="leaflet.css">
+   	<script src="leaflet.js"></script>
+    <link rel="stylesheet" href="bootstrap.min.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	
-    <link rel="stylesheet" href="assets/css/templatemo.css">
-    <link rel="stylesheet" href="assets/css/custom.css">
+    <link rel="stylesheet" href="templatemo.css">
+    <link rel="stylesheet" href="custom.css">
 	<link href="vendor/bootstrap-datepicker/bootstrap-datepicker3.standalone.min.css" rel="stylesheet" media="screen">
 
     <!-- Load fonts style after rendering the layout styles -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito:wght@100;200;300;400;500;700;900&display=swap">
-    <link rel="stylesheet" href="assets/css/fontawesome.min.css">
+    <link rel="stylesheet" href="fontawesome.min.css">
 
 </head>
 
@@ -51,7 +51,7 @@
         <div class="container d-flex justify-content-between align-items-center">
 
             <a class="navbar-brand text-dark logo h1 align-self-center" href="index.php">
-           	 <img class="" src="assets/img/logo-red.png" width="25%">
+           	 <img class="" src="logo-red.png" width="25%">
             </a>
 
             <button class="navbar-toggler border-0" type="button" data-bs-toggle="collapse" data-bs-target="#templatemo_main_nav" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
