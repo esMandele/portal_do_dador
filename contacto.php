@@ -1,12 +1,12 @@
 <?php
 include_once 'header.php';
 ?>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="style.css">
 
    
 <!-- END CONTACTO -->
 <section class="container py-3">
-    <div id="contact-area" style="background-image: url(/assets/img/contact.jpg);">
+    <div id="contact-area" style="background-image: url(contact.jpg);">
       <span class="display-4 text-primary">Nossos Contactos</span>  
       <p>Lorem ipsum dolor sit amet.</p>
       <p>Entre em contacto com o nosso time em tempo real, Lorem ipsum dolor sit amet consectetur adipisicing elit. Minima doloremque praesentium ipsum neiendis quaerat at magni! Porro nam libero labore vitae voluptas.</p>
