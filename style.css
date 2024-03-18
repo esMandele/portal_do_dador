@@ -1,0 +1,123 @@
+body{
+    background-color: #fff9ea;
+}
+
+#contact-area{
+    text-align: center;
+    justify-content: center;
+    background-image: url(/assets/img/contact.jpg);
+}
+
+.contact-title{
+    font-weight: bold;
+    color: #330000;
+    text-align: justify;
+}
+
+.contacto-info{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.contacto-info .left-side{
+    width: 50%;
+    padding: 30px;  
+    background-color: #fff9ea;
+    border-radius: 10px; 
+    margin-right: 50px;
+    height: fit-content;
+    box-shadow: 0px 0px 12px 8px rgba(0, 0, 0, 0.1);
+}
+
+.contacto-info .left-side div{
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.contacto-info .left-side div i{
+    font-size: 22px;
+    margin-right: 20px;
+    color: #cc0000;
+}
+
+.contacto-info .left-side p{
+    font-size: 20px;
+    color:  #1d1d1d;
+}
+
+@media screen and (width:680px) {
+    .contacto-info{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .contacto-info .left-side div i{
+        font-size: 16px;
+    }
+    .contacto-info.left-side p{
+        font-size: 12px;
+        color: #1d1d1d;
+    }
+}
+
+.contacto-info .right-side{
+    width: 50%;
+}
+
+.contacto-info .right-side input{
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    height: 47px;
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #fff9ea;
+    color: #cc0000;
+    background-color: #fff9ea;
+    font-weight: lighter;
+    box-shadow: 0px 0px 12px 8px rgba(0, 0, 0, 0.1);
+    transition: border-color 0.3s ease;
+}
+
+.contacto-info .right-side textarea{
+    border: 1px solid #fff;
+    color: #cc0000;
+    background-color: #fff9ea;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    padding: 15px;
+    width: 100%;
+    transition: 0.3s;
+    resize: none;
+}
+
+.contacto-info .right-side .btn{
+    background-color: #1d1d1d;
+    color: #cc0000;
+}
+
+.social-media-buttons{
+    display: flex;
+    gap: 18px;
+}
+
+.social-media-buttons a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 45px;
+    height: 40px;
+    font-size: 1.25rem;
+    border-radius: 10px;
+    text-decoration: none;
+    color: #1d1d1d;
+    box-shadow: 0px 0px 12px 4px rgba(0, 0, 0, 0.2);
+    transition: box-shadow 0.3 ease;
+}
+
+.social-media-buttons a:hover{
+    box-shadow: 0px 0px 12px 8px rgba(0, 0, 0, 0.1);
+}
