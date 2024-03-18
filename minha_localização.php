@@ -5,7 +5,7 @@ include_once 'header.php';
 
 ?>
 
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="style.css">
 
     <style>
         #map{
