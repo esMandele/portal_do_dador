@@ -1,7 +1,7 @@
 <?php
 include_once 'header_2.php';
 ?>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="style.css">
     <!-- Start Banner Hero -->
     <div id="template-mo-zay-hero-carousel" class="carousel slide" data-bs-ride="carousel">
         <ol class="carousel-indicators">
@@ -21,7 +21,7 @@ include_once 'header_2.php';
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left align-self-center">
-                                <img class="img-fluid" src="./assets/img/doação-transf-750.png" alt="">
+                                <img class="img-fluid" src="doação-transf-750.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -38,7 +38,7 @@ include_once 'header_2.php';
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
                               
-                                <img class="img-fluid" src="./assets/img/bd2.png" alt="">
+                                <img class="img-fluid" src="bd2.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -54,7 +54,7 @@ include_once 'header_2.php';
                         </div>
                         <div class="col-lg-6 mb-0 d-flex align-items-center">
                             <div class="text-align-left">
-                                <img class="img-fluid" src="./assets/img/blood-donor-700.png" alt="">
+                                <img class="img-fluid" src="blood-donor-700.png" alt="">
                             </div>
                         </div>
                     </div>
@@ -83,15 +83,15 @@ include_once 'header_2.php';
         </div>
         <div class="row">
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assets/img/category_03.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="category_03.jpg" class="rounded-circle img-fluid border"></a>
                 <h5 class="text-center mt-3 mb-3">Oftamologia</h5>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assets/img/category_img_04.jpg" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="category_img_04.jpg" class="rounded-circle img-fluid border"></a>
                 <h2 class="h5 text-center mt-3 mb-3">Optometria</h2>
             </div>
             <div class="col-12 col-md-4 p-5 mt-3">
-                <a href="#"><img src="./assets/img/category_02.png" class="rounded-circle img-fluid border"></a>
+                <a href="#"><img src="category_02.png" class="rounded-circle img-fluid border"></a>
                 <h2 class="h5 text-center mt-3 mb-3">Acessorios</h2>
             </div>
         </div>
@@ -115,7 +115,7 @@ include_once 'header_2.php';
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="index.php">
-                            <img src="./assets/img/feature_01.jpg" class="card-img-top" alt="...">
+                            <img src="feature_01.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -138,7 +138,7 @@ include_once 'header_2.php';
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="index.php">
-                            <img src="./assets/img/feature_02.jpg" class="card-img-top" alt="...">
+                            <img src="feature_02.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
@@ -160,7 +160,7 @@ include_once 'header_2.php';
                 <div class="col-12 col-md-4 mb-4">
                     <div class="card h-100">
                         <a href="index.php">
-                            <img src="./assets/img/feature_03.jpg" class="card-img-top" alt="...">
+                            <img src="feature_03.jpg" class="card-img-top" alt="...">
                         </a>
                         <div class="card-body">
                             <ul class="list-unstyled d-flex justify-content-between">
