@@ -1,6 +1,6 @@
  <!-- Start Footer -->
     <footer class="bg-danger" id="tempaltemo_footer">
-        <img src="assets/img/wave.svg" alt="">
+        <img src="wave.svg" alt="">
         <div class="w-100 bg-danger py-2">
             <div class="container">
                 <div class="row pt-2">
@@ -11,7 +11,7 @@
                     </div>
                     <div class="social-media-buttons">
                         <a href="#"><i class="fa-brands  fa-instagram"></i></a>
-                        <a href="#"><i class="fa-brands  fa-facebook"></i></as=>
+                        <a href="#"><i class="fa-brands  fa-facebook"></i></a>
                         <a href="https://github.com/esMandele"><i class="fa-brands fa-github"></i></a>
                     </div>
                 </div>  
