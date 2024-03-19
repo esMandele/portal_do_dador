@@ -1,7 +1,7 @@
 <?php
 include_once 'header.php';
 ?>
-<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="style.css">
 
 <div class="container py-3">
     <h2 class="display-4 text-center text-uppercase text-primary">Perguntas frequentes</h2>
