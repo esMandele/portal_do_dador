@@ -2,6 +2,7 @@
 include_once 'header.php';
 ?>
 
+<link rel="stylesheet" href="style.css">
     <!-- Start Content Page -->
     <div class="container-fluid bg-light py-5">
         <div class="col-md-6 m-auto text-center">
@@ -33,34 +34,31 @@ include_once 'header.php';
                         <label for="inputname">Data de Nascimento</label>
                         <input type="date" class="form-control mt-1" id="name" name="data_nasc_paciente">
                     </div>
-					 <div class="form-group col-md-6 mb-3">
+		 <div class="form-group col-md-6 mb-3">
                         <label for="inputname">BI</label>
                         <input type="text" class="form-control mt-1" id="name" name="bi_paciente" placeholder="Digite o numero do BI">
                     </div>
-					<div class="form-group col-md-6 mb-3">
-                    <label for="inputsubject">Nacionalidade</label>
-                    <input type="text" class="form-control mt-1" id="subject" name="nacionalidade_paciente" placeholder="Digite a Nacionalidade">
-                    </div>
-					<div class="form-group col-md-6 mb-3">
-					<label for="inputsubject">Sexo</label>
-                         <select class="form-control mt-1" name="genero_paciente" >
+			
+		<div class="form-group col-md-6 mb-3">
+			<label for="inputsubject">Gêneroo</label>
+                         <select class="form-control mt-1" name="genero_dador" >
                            <option>Selecione o Genero</option>
                             <option value="Femenino">Femenino</option>
                           <option value="Masculino">Masculino</option>
                        </select>
-					</div>
-					<div class="form-group col-md-6 mb-3">
+		</div>
+		<div class="form-group col-md-6 mb-3">
                         <label for="inputname">Endereço</label>
-                        <input type="text" class="form-control mt-1" id="endereco" name="endereco_paciente" placeholder=" Digite o Endereço">
-                    </div>
-					<div class="form-group col-md-6 mb-3">
+        	        <input type="text" class="form-control mt-1" id="endereco" name="endereco_paciente" placeholder=" Digite o Endereço">
+                 </div>
+		<div class="form-group col-md-6 mb-3">
                         <label for="inputname">Telefone</label>
                         <input type="text" class="form-control mt-1" id="telefone" name="telefone_paciente" placeholder=" Digite o Numero">
-                    </div>
-					<div class="form-group col-md-6 mb-3">
+            	</div>	
+		<div class="form-group col-md-6 mb-3">
                         <label for="inputname">Senha</label>
                         <input type="password" class="form-control mt-1" id="senha" name="senha_paciente" placeholder=" Digite o Senha">
-                    </div>
+                </div>
                     <div class=" mb-3">
                         <label for="inputemail">E-mail</label>
                         <input type="email" class="form-control mt-1" id="email" name="email_paciente" placeholder="Digite o E-mail">
