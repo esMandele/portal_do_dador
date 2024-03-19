@@ -35,7 +35,7 @@
             <div class="w-100 d-flex justify-content-between">
                 <div>
                     <i class="fa fa-envelope mx-2"></i>
-                    <a class="navbar-sm-brand text-light text-decoration-none" href="mailto:esperança@gmail.com">contacto@portaldodador.com.ao</a>  
+                    <a class="navbar-sm-brand text-light text-decoration-none" href="mailto:contacto@portaldodador.com.ao">contacto@portaldodador.com.ao</a>  
 			   </div>
                 <div>
                     <a class="text-light" href="#" data-bs-toggle="modal" data-bs-target="#ModalAdd" target="_blank"><i class="fas fa-user-circle me-2" title="Logar como usuario">  Login </i></a> / <a class="text-light" href="#" data-bs-toggle="modal" data-bs-target="#ModalAdd_funcionario" target="_blank" title="Logar como admin"><i class="fa fa-users me-2"></i></a>
