@@ -1,7 +1,7 @@
 <?php
 include_once 'header.php';
 ?>
-    <link rel="stylesheet" href="assets/css/style.css">
+    <link rel="stylesheet" href="style.css">
 
     <section class="py-5 shadow-lg">
         <div class="container">
@@ -19,7 +19,7 @@ include_once 'header.php';
                     </ul>
                 </div>
                 <div class="col-md-4">
-                    <img id="sobre_img" class="img-fluid" src="assets/img/blood-heart.jpeg" alt="Sangue, simbolizando amor">
+                    <img id="sobre_img" class="img-fluid" src="blood-heart.jpeg" alt="Sangue, simbolizando amor">
                 </div>
             </div>
             <a href="contacto.php" class="main-btn"><button class="text-light bg-danger rounded-2 border-0 p-2 m-auto">Contactos</button></a>
@@ -37,19 +37,19 @@ include_once 'header.php';
         </div>
         <div class="row">
             <div class="col-12 text-center col-md-4 p-5 mt-3">
-                <img src="./assets/img/smart-rout.jpg" alt="" class="img-thumbnail shadow py-3 w-100 h-50">
+                <img src="smart-rout.jpg" alt="" class="img-thumbnail shadow py-3 w-100 h-50">
                 <h5 class="text-center text-primary h2 ">Localizar Centro Hospitalar</h5>
                 <p class="lead">Este serviço permite identificar os centros hospitalares que podem lhe ofercer sangue, ou podem estar precisando do seu sangue.</p>
                 <a href="#" class="main-btn"><button class="text-light bg-danger rounded-2 border-0">Saiba mais</button></a>
             </div>
             <div class="col-12 col-md-4 text-center p-5 mt-3">
-                <img src="./assets/img/blood-exm.png" alt="" class="img-thumbnail shadow float-end ms-3">
+                <img src="blood-exm.png" alt="" class="img-thumbnail shadow float-end ms-3">
                 <h5 class="text-center text-primary h2">Reservar Sangue</h5>               
                 <p class="lead ">Pode fazer reserva de sangue , sabe qual é o seu grupo sanguíneo? para avaliar as três principais linhagens de células do , sendo bastante utilizado no diagnóstico de várias doenças.</p>
                 <a href="#" class="main-btn"><button class="text-light bg-danger rounded-2 border-0">Saiba mais</button></a>
             </div>
             <div class="col-12 col-md-4 text-center p-5 mt-3 w-45">
-                <a href="#"><img src="./assets/img/blood.png" width="90%" class="img-thumbnail shadow float-end ms-3"></a>
+                <a href="#"><img src="blood.png" width="90%" class="img-thumbnail shadow float-end ms-3"></a>
                 <h5 class="text-center text-primary h2 ">Agendar doação</h5>               
                 <p class="lead"> Venha agendar a sua doação connosco do sangue, sendo bastante utilizado no diagnóstico de várias doenças.</p>
                 <a href="#" class="main-btn"><button class="text-light bg-danger rounded-2 border-0">Saiba mais</button></a>
